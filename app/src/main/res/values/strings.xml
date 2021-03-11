@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nium</string>
+    <string name="details">Country details:</string>
+    <string name="country">Country</string>
+    <string name="capital">Capital</string>
+    <string name="region">Region</string>
+    <string name="numeric_code">Numeric Code</string>
+    <string name="hint">Search country</string>
+</resources>
